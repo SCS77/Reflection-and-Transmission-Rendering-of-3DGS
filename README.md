@@ -25,9 +25,9 @@
 | 2025 | TVCG | **GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GlossyGS%3A+Inverse+Rendering+of+Glossy+Objects+with+3D+Gaussian+Splatting&btnG=) | [GitHub](https://letianhuang.github.io/glossygs/) |  
 | 2025 | CVPR | **Factored-neus: Reconstructing surfaces, illumination, and materials of possibly glossy objects** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Factored-NeuS%3A+Reconstructing+Surfaces%2C+Illumination%2C+and+Materials+of+Possibly+Glossy+Objects&btnG=) | [GitHub](https://github.com/yiqun-wang/Factored-NeuS) |  
 | 2025 | CVPR | **Diffusion Renderer: Neural Inverse and Forward Rendering with Video Diffusion Models** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Diffusion+Renderer%3A+Neural+Inverse+and+Forward+Rendering+with+Video+Diffusion+Models&btnG=) | [GitHub](https://github.com/nv-tlabs/diffusion-renderer) |  
-
-
-
+| 2026 | arXiv | **Animated 3DGS Avatars in Diverse Scenes with Consistent Lighting and Shadows** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Animated+3DGS+Avatars+in+Diverse+Scenes+with+Consistent+Lighting+and+Shadows&btnG=) | [GitHub](https://miraymen.github.io/dgsm/) |  
+| 2024 | arXiv | **3d gaussian ray tracing: Fast tracing of particle scenes** | [Paper](https://dl.acm.org/doi/epdf/10.1145/3687934) | [GitHub](https://research.nvidia.com/labs/toronto-ai/3DGRT/) |  
+| 2026 | arXiv | **GRTX: Efficient Ray Tracing for 3D Gaussian-Based Rendering** | [Paper](https://arxiv.org/pdf/2601.20429) | ---- |  
 
 
 
