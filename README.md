@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b> Physical Scene Reconstruction and Rendering </b>
+  <b> Reflection and Transmission Rendering </b>
 </h1>
 
 📦 This collection of papers on scene reconstruction and rendering
