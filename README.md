@@ -143,6 +143,32 @@
 
 
 
+## [ LiDAR/SLAM + 3DGS] 
+| Year | J/C | Title | Paper | Code |
+|------|-----------|-------|-------|------|
+| 2024 | CVPR | **Drivinggaussian: Composite gaussian splatting for surrounding dynamic autonomous driving scenes** | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_DrivingGaussian_Composite_Gaussian_Splatting_for_Surrounding_Dynamic_Autonomous_Driving_Scenes_CVPR_2024_paper.pdf) | [GitHub](https://github.com/VDIGPKU/DrivingGaussian) |  
+| 2026 | TPAMI | **Drivinggaussian++: Towards realistic reconstruction and editable simulation for surrounding dynamic driving scenes** | [Paper](https://ieeexplore.ieee.org/abstract/document/11407473) | [GitHub](https://xiong-creator.github.io/DrivingGaussian_plus.github.io/) |  
+| 2024 | CVPR | **Drivinggaussian++: Towards realistic reconstruction and editable simulation for surrounding dynamic driving scenes** | [Paper](https://arxiv.org/abs/2508.20965) | [GitHub](https://xiong-creator.github.io/DrivingGaussian_plus.github.io/) |  
+| 2024 | CVPR | **Drivinggaussian++: Towards realistic reconstruction and editable simulation for surrounding dynamic driving scenes** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=VastGaussian%3A+Vast+3D+Gaussians+for+Large+Scene+Reconstruction&btnG=) | [GitHub](https://vastgaussian.github.io/) |  
+| 2026 | ICRA  | **S3Gaussian: Self-Supervised Street Gaussians for Autonomous Driving** | [Paper](https://arxiv.org/abs/2405.20323) | [GitHub](https://wzzheng.net/S3Gaussian/) |  
+| 2024 | ICML | **GaussianPro: 3D Gaussian Splatting with Progressive Propagation** | [Paper](https://arxiv.org/abs/2402.14650) | [GitHub](https://github.com/kcheng1021/GaussianPro) |  
+| 2024 | ECCV | **Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2401.01339) | [GitHub](https://github.com/zju3dv/street_gaussians/) |  
+| 2024 | ECCV | **CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians** | [Paper](https://arxiv.org/pdf/2404.01133) | [GitHub](https://dekuliutesla.github.io/citygs/) |  
+| 2025 | ICRA  | **Citygaussianv2: Efficient and geometrically accurate reconstruction for large-scale scenes** | [Paper](https://dekuliutesla.github.io/CityGaussianV2/static/paper/CityGaussianV2.pdf) | [GitHub](https://dekuliutesla.github.io/CityGaussianV2/) |  
+| 2024 | TOG | **A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets** | [Paper](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/hierarchical-3d-gaussians_low.pdf) | [GitHub](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/) |  
+| 2025 | CVPR  | **Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Lidar+and+Camera+Rendering+with+3D+Gaussian+Splatting+for+Autonomous+Driving&btnG=) | [GitHub](https://github.com/carlinds/splatad) |  
+| 2026 | ICLR | **GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting** | [Paper](https://arxiv.org/abs/2501.13971) | [GitHub](https://github.com/fudan-zvg/GS-LiDAR) |  
+| 2025 | CVPR | **Generative Gaussian Splatting for Unbounded 3D City Generation** | [Paper](https://github.com/hzxie/GaussianCity) | [GitHub](https://github.com/hzxie/GaussianCity) |  
+| 2024 | TOG | **LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3687762) | [GitHub](https://github.com/zhaofuq/LOD-3DGS) |  
+| 2025 | CVPR | **LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation** | [Paper](https://arxiv.org/pdf/2412.15199) | [GitHub](https://github.com/zju3dv/LiDAR-RT) |  
+| 2025 | TIM | **LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting** | [Paper](https://ieeexplore.ieee.org/document/10926911) | [GitHub](https://kwanwaipang.github.io/LVI-GS/) |  
+| 2025 | ICRA | **Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion** | [Paper](https://arxiv.org/abs/2404.06926) | [GitHub](https://github.com/APRIL-ZJU/Gaussian-LIC) |  
+| 2025 | arXiv | **Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM** | [Paper](https://arxiv.org/pdf/2507.04004) | [GitHub](https://xingxingzuo.github.io/gaussian_lic2/) |  
+| 2025 | ICCV | **GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting** | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_GS-LIVM_Real-Time_Photo-Realistic_LiDAR-Inertial-Visual_Mapping_with_Gaussian_Splatting_ICCV_2025_paper.pdf) | [GitHub](https://github.com/xieyuser/GS-LIVM) |  
+| 2025 | ICCV | **Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping** | [Paper](https://arxiv.org/abs/2503.17491) | [GitHub](https://github.com/rvp-group/Splat-LOAM) |  
+| 2024 | CVPR | **Hugs: Human gaussian splats** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=HUGS%3A+Human+Gaussian+Splats&btnG=) | [GtiHub](https://github.com/apple/ml-hugs) |  
+| 2025 | ICCV | **SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding** | [Paper](https://arxiv.org/abs/2501.05242) | [GitHub](https://segs-slam.github.io/) |  
+
 
 
 
